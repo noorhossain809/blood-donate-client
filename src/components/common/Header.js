@@ -20,6 +20,7 @@ const navigation = [
   }
 
 const Header = () => {
+  // header
     return (
         <div>
           <div className='bg-[#FE3C47] p-3'>
